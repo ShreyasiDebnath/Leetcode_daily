@@ -10,7 +10,10 @@
   5.  now we got the position of the winner <br>
   to calculate the previous winner position
 <br>
-**Alternative**:We can use queue<br>
-1.frist enter all the n number into the queue
-2. pop k-1 element and pop the front (that is my kth elemet to remove)
-3. lastly when we left withonly one number int the queue that will be my answer
+***Alternative***:
+<br>
+We can use queue
+<br>
+1.frist enter all the n number into the queue<br>
+2. pop k-1 element and pop the front (that is my kth elemet to remove)<br>
+3. lastly when we left withonly one number int the queue that will be my answer<br>
