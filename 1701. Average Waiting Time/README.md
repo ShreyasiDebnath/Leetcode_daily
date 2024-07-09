@@ -2,7 +2,7 @@
 ```class Solution {
 public:
     double averageWaitingTime(vector<vector<int>>& customer) {
-       // sort(customer.begin(),customer.end());
+       
         int time=0;
         double wait=0;
 
